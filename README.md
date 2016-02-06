@@ -1,2 +1,2 @@
 # BootStrap
-Just a repo where I push the programs I write for practicing C++
+Just a repo where I push the bootstrap websites
